@@ -1,12 +1,7 @@
-
-<img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=weiyang0412"/>
-<img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weiyang0412"/>
-[![GitHub Streak](https://github-readme-streak-stats-olive-alpha.vercel.app?user=weiyang0412&theme=dark)](https://git.io/streak-stats)
-
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" backgroundColor="white"/>
-  <div id="badges">
+  
+  <div id="badges" style="text-align: left;">
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -17,9 +12,14 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <div id="badges">
-      <img src="https://komarev.com/ghpvc/?username=weiyang0412&style=flat-square&color=blue" alt=""/>
-    <div>
+       <img src="https://komarev.com/ghpvc/?username=weiyang0412&style=flat-square&color=blue" alt=""/>
+    </div>
   </div>
+</div>
+
+---
+### :hammer_and_wrench: Languages and Tools :
+<div id="header">
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -38,3 +38,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
 </div>
+
+---
+### :fire: My Stats :
+<img alt="top-langs" src="https://github-readme-streak-stats-olive-alpha.vercel.app?user=weiyang0412&theme=dark"/>
+<img alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weiyang0412&layout=compact&theme=vision-friendly-dark"/>
+
