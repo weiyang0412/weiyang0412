@@ -1,19 +1,16 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" backgroundColor="white"/>
+<!--   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW40dDZoYXdqeGFnbGlleDVmcml4dzNkdGQ1cjYwbXg0ODAzbTVtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5XBqgVhG5EWPc6oEno/giphy.gif" width="100" backgroundColor="white"/> -->
   
   <div id="badges" style="text-align: left;">
-    <a href="your-linkedin-URL">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://www.linkedin.com/in/chong-wei-yang-270b2b1aa/">
+      <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-    <div id="badges">
+<!--     <a href="your-youtube-URL">
+      <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a> -->
+<!--     <div id="badges">
        <img src="https://komarev.com/ghpvc/?username=weiyang0412&style=flat-square&color=blue" alt=""/>
-    </div>
+    </div> -->
   </div>
 </div>
 
