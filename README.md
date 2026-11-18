@@ -5,6 +5,9 @@
     <a href="https://www.linkedin.com/in/chong-wei-yang-270b2b1aa/">
       <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://weiyang-portfolio.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge"/>
+    </a>
 <!--     <a href="your-youtube-URL">
       <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a> -->
