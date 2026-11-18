@@ -1,20 +1,19 @@
 <div id="header" align="center">
 <!--   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW40dDZoYXdqeGFnbGlleDVmcml4dzNkdGQ1cjYwbXg0ODAzbTVtciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5XBqgVhG5EWPc6oEno/giphy.gif" width="100" backgroundColor="white"/> -->
   
-  <div id="badges" style="text-align: left;">
-    <a href="https://www.linkedin.com/in/chong-wei-yang-270b2b1aa/">
+  <!-- <div id="badges" style="text-align: left;">
+    <a href="https://www.linkedin.com/in/chong-wei-yang-270b2b1aa/" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://weiyang-portfolio.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Badge"/>
+    <a href="https://weiyang-portfolio.vercel.app/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logoColor=white" alt="Portfolio Badge"/>
     </a>
-<!--     <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a> -->
-<!--     <div id="badges">
-       <img src="https://komarev.com/ghpvc/?username=weiyang0412&style=flat-square&color=blue" alt=""/>
-    </div> -->
-  </div>
+  </div> -->
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chong-wei-yang-270b2b1aa/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logoColor=white)](https://weiyang-portfolio.vercel.app/)
+
+
 </div>
 
 ---
